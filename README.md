@@ -10,6 +10,7 @@ Caution: Mostly untested.
   - clang 3.8
   - g++ 6.1.1
 - QMake
+
 ## Libraries
 - boost asio
   - boost system
